@@ -14,4 +14,8 @@ public class Account {
   public double getBalance() {
     return balance;
   }
+
+  public double getAccountNumber() {
+    return accountNumber;
+  }
 }
