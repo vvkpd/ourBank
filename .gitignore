@@ -7,4 +7,5 @@ gradlew.bat
 .gradle
 .project
 .idea/
-*.xml
+.idea/workspace.xml
+library/out/
